@@ -1,0 +1,127 @@
+{
+    // Enables debug output into the sublime console
+    "debug": false,
+
+    // Sets the base file for the global commands
+    // "current": uses the active view as the base
+    // "project": uses the project root folder(s) as the base
+    // path: A file path to use as the base directory
+    // [path]: a list of paths to use as the base directory
+    "commandBaseFiles": "project",
+
+    // Disables checking for valid commands when opening menus.
+    // Set this to true if you find that the menu takes to long to open
+    "disableSVNChecks": false,
+
+    // Settings for native SVN commands
+    "nativeSVN": {
+
+        // Prevent use of native SVN commands
+        // NOTE: this does not prevent use of native SVN, just enabling the user commands
+        "disable": false,
+
+        // The path to the svn binary
+        // leave it to false to use the command "svn"
+        // Make a string with the full path to the binary or command otherwise
+        "svnPath": false,
+
+        // Sets the minimum length for a commit message.
+        // 0 or less means no message is required
+        "commitMessageSize": 0,
+
+        // Adds a step to commit after entering the message verifying that the commit is valid
+        "commitConfirm": true,
+
+        // Gets a list of revisions from the log for the user to select
+        // If disabled (false), the user simply enters the revision number
+        "updateToRevisionHistory": true,
+        // If Update to revision history is enabled, this sets the number of revisions to show
+        "updateToRevisionHistorySize": 20,
+
+        // Sets the number of revisions to get for log history
+        "logHistorySize": 20,
+
+        // Sets where the output goes from SVN commands; if none is set, then "panel" is used
+        // "panel":  opens an output panel at the bottom of the window (default)
+        // "tab":    opens a new tab for output
+        // "dialog": opens an alert dialog for the results of each command
+        "outputTo": "panel",
+
+        // Sets where the output scrolls to when running a command
+        // "command":  Scroll to the top of the command and stay there
+        // "bottom":   Keep the bottom of the output visible
+        "outputScrollTo": "command",
+
+        // Include the raw commands in output
+        "outputRawCommand": false,
+
+        // Set the output gutter style for conflicts
+        // "dot": a small dot
+        // "circle": a circle that fills the width of the gutter
+        // "bookmark": a small arrow indicating the line
+        // "none": no gutter marker
+        "outputGutter": "circle",
+
+        // Set the output highlight style for conflicts
+        // "fill": fills the background of the text
+        // "outline": outlines the selected area
+        // "solid": adds a solid underline to the selected area
+        // "squiggly": adds a squiggly underline to the selected area
+        // "stippled": adds a stippled underline to the selected area
+        // "none": no highlight
+        "outputHighlight": "outline",
+
+        // Allow the "revert all" command to be always visible
+        // this allows the revert all command to act as a shortcut
+        // when revert is set to tortoiseSVN
+        "alwaysEnableRevertAll": false,
+
+        // specify a diff command
+        // use false to use native svn command
+        // diff commands assume that the files are the last parameter for now
+        // also, this is not yet supported for "previous version"
+        "diffCommand": false
+    },
+
+    // Settings for Tortoise SVN
+    // Windows only
+    "tortoiseSVN": {
+
+        // Prevent use of tortoise SVN commands
+        // NOTE: if OS is not windows, tortoise is disabled anyway
+        "disable": false,
+
+        // Path to TortoiseProc.exe
+        // If path is not a file, then tortoise commands will be disabled
+        "tortoiseproc_path": "C:\\Program Files\\TortoiseSVN\\bin\\TortoiseProc.exe",
+    },
+
+    // Specifies which commands use nativeSVN or tortoiseSVN
+    // Windows only (since tortoiseSVN is only available on windows)
+    // Anything not specified will use "default" instead
+    "prefer": {
+        "default": "tortoiseSVN",
+
+        // Diff and blame use tortoiseSVN if possible because the interface is better for now
+        "diff": "tortoiseSVN",
+        "blame": "tortoiseSVN",
+
+        // Supported native commands
+        "commit": "tortoiseSVN",
+        "update": "tortoiseSVN",
+        "add": "tortoiseSVN",
+        "delete": "tortoiseSVN",
+        "rename": "tortoiseSVN",
+        "revert": "tortoiseSVN",
+        "log": "tortoiseSVN",
+        "status": "tortoiseSVN",
+        "cleanup": "tortoiseSVN",
+        "lock": "tortoiseSVN",
+        "unlock": "tortoiseSVN",
+        "resolve": "tortoiseSVN",
+        "switch": "tortoiseSVN",
+        "branch": "tortoiseSVN",
+        "merge": "tortoiseSVN",
+        "checkout": "tortoiseSVN"
+    }
+}

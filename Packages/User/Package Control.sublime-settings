@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"CodeComplice",
+		"Color Highlighter",
+		"CSS Snippets",
+		"DocBlockr",
+		"Emmet",
+		"Expression",
+		"HTML5",
+		"HTMLBeautify",
+		"IntelliDocs",
+		"Javascript Beautify",
+		"jQuery",
+		"jQueryDocs",
+		"Minify",
+		"MySQL Snippets",
+		"Numix Theme",
+		"Package Control",
+		"PHP Completions Kit",
+		"php-grammar",
+		"php-snippets",
+		"PhpDoc",
+		"PlainTasks",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SyncedSideBar",
+		"SyntaxHighlighter Reloaded Color Scheme",
+		"Theme - SoDaReloaded",
+		"TortoiseSVN",
+		"Trimmer",
+		"Xdebug Client"
+	]
+}

@@ -1,0 +1,8 @@
+[
+    	{ "keys": ["alt+l"], "command": "svn_lock" },
+		{ "keys": ["alt+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}},
+    	{ "keys": ["shift+alt+c"], "command": "svn_commit" },
+    	{ "keys": ["alt+c"], "command": "side_bar_copy_path_absolute_from_project_encoded" },
+    	{ "keys": ["ctrl+shift+o"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} }
+]
+

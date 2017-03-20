@@ -1,0 +1,19 @@
+{
+	"codeintel_enabled_languages":
+	[
+	   "JavaScript", "HTML", "HTML5", "CSS", "PHP"
+	],
+	"codeintel_selected_catalogs": 
+	[
+		"jQuery", "HTML5", "PECL"
+	],
+	"codeintel_language_settings": {
+	    "PHP": {
+	        "php": "D:/Projects/wamp/bin/php/php5.5.12",
+	        "codeintel_scan_extra_dir": [],
+	        "codeintel_scan_files_in_project": true,
+	        "codeintel_max_recursive_dir_depth": 15,
+	        "codeintel_scan_exclude_dir":["D:/Projects/wamp/bin/php/php5.5.12"]
+	    }
+	}
+}

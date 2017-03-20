@@ -1,0 +1,51 @@
+[03/01/2017 11:23:48AM] INFO - ==== Loading 'Xdebug Client.sublime-package' package ====
+[03/01/2017 11:23:48AM] INFO - Failed to open C:\Users\pcs157\AppData\Roaming\Sublime Text 3\Packages\User\Xdebug.expressions.
+[03/01/2017 11:23:48AM] INFO - Failed to parse C:\Users\pcs157\AppData\Roaming\Sublime Text 3\Packages\User\Xdebug.expressions.
+[03/01/2017 11:25:23AM] WARNING - Could not import subprocess32 module, falling back to subprocess module
+[03/01/2017 11:25:37AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\one.html' lang: HTML
+[03/01/2017 11:26:20AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\one.html' lang: HTML
+[03/01/2017 11:40:51AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:41:03AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:41:10AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:44:05AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:44:14AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:44:14AM] INFO - getting handler for (None,None,None)
+[03/01/2017 11:44:14AM] INFO - done eval: success
+[03/01/2017 11:44:15AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:44:15AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:44:21AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:44:21AM] INFO - getting handler for (None,None,None)
+[03/01/2017 11:44:21AM] INFO - done eval: success
+[03/01/2017 11:44:25AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:44:25AM] INFO - getting handler for (None,None,None)
+[03/01/2017 11:44:25AM] INFO - done eval: success
+[03/01/2017 11:44:29AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:44:29AM] INFO - getting handler for (None,None,None)
+[03/01/2017 11:44:29AM] INFO - done eval: success
+[03/01/2017 11:44:49AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:48:29AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:48:29AM] INFO - getting handler for (None,None,None)
+[03/01/2017 11:48:29AM] INFO - done eval: success
+[03/01/2017 11:48:30AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:59:35AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:59:36AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:59:41AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:59:41AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:59:43AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:59:47AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:59:47AM] INFO - getting handler for (None,None,None)
+[03/01/2017 11:59:47AM] INFO - done eval: success
+[03/01/2017 11:59:52AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:59:52AM] INFO - getting handler for (None,None,None)
+[03/01/2017 11:59:52AM] INFO - done eval: success
+[03/01/2017 11:59:54AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:59:54AM] INFO - getting handler for (None,None,None)
+[03/01/2017 11:59:54AM] INFO - done eval: success
+[03/01/2017 11:59:55AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:59:55AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:59:56AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:59:56AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:59:56AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:59:57AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 11:59:57AM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
+[03/01/2017 12:00:00PM] INFO - scan_purelang: path: 'D:\\Projects\\xampp\\htdocs\\Demos\\owl\\demos\\one.html' lang: HTML
